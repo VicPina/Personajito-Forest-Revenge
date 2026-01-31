@@ -42,5 +42,23 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Piso
+    uniqueID: 258880385
+    locked: 0
+  - name: Caminar Delante
+    uniqueID: 99395531
+    locked: 0
+  - name: Capa Choque
+    uniqueID: 2584266841
+    locked: 0
+  - name: Personajes
+    uniqueID: 1629312395
+    locked: 0
+  - name: Caminar Detras
+    uniqueID: 273151077
+    locked: 0
+  - name: Decoraciones
+    uniqueID: 2357143969
+    locked: 0
   m_RenderingLayers:
   - Default
