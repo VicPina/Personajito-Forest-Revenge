@@ -37,5 +37,6 @@ public class PlayerController : MonoBehaviour
             return;
         }
         _rigidbody.linearVelocity = _movementInput;
+
     }
 }
