@@ -9,11 +9,11 @@ public class Item : MonoBehaviour
 
     private void Awake()
     {
-        
+        LoadItem();
     }
     private void LoadItem()
     {
         spriteRenderer.sprite = itemData.itemVisual;
-        gameObject.name = itemData.name;
+        gameObject.name = itemData.itemName;
     }
 }
