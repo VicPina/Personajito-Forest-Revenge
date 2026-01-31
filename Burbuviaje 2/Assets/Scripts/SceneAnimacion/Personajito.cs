@@ -76,7 +76,7 @@ public class Personajito : MonoBehaviour
         if (fondo4.transform.position.x < 1.1 && !animacion.GetBool("Cambio"))
         {
             animacion.SetBool("Cambio", true);
-            Debug.Log("Cambio a el animator a CAMBIO");
+            //Debug.Log("Cambio a el animator a CAMBIO");
         }
         if (fondo5.transform.position.x > 0)
         {
@@ -94,10 +94,7 @@ public class Personajito : MonoBehaviour
             animacion.SetBool("Cambio", false);
             animacion.SetBool("Cayendo", true);
             rg2d.gravityScale = 2f;
-            //Debug.Log("Cambio el animator a CAYENDO");
-
-
-
+            
         }
 
     }
