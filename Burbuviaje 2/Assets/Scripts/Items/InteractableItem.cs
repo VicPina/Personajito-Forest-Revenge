@@ -1,11 +1,13 @@
 using UnityEngine;
+using UnityEngine.Events;
 
-public class Item : MonoBehaviour
+public class InteractableItem : MonoBehaviour
 {
     [Header("Item Information")]
-    public ItemData itemData;
+    public InteractableItemData itemData;
     [Header("Item Functionality")]
     public SpriteRenderer spriteRenderer;
+    public UnityEvent onInteraction;
 
     private void Awake()
     {
