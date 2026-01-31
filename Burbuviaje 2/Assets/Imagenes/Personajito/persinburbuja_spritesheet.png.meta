@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 7ed0415353ceb7542afc03fc0c425f26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1367787516686261361
+    second: persinburbuja_spritesheet_0
+  - first:
+      213: -7043489405302782326
+    second: persinburbuja_spritesheet_1
+  - first:
+      213: 2587564848379867823
+    second: persinburbuja_spritesheet_2
+  - first:
+      213: 6164467520107372592
+    second: persinburbuja_spritesheet_3
+  - first:
+      213: -1921746697788922277
+    second: persinburbuja_spritesheet_4
+  - first:
+      213: -6003691223416804485
+    second: persinburbuja_spritesheet_5
+  - first:
+      213: 7272201106792255676
+    second: persinburbuja_spritesheet_6
+  - first:
+      213: 2746433898240559730
+    second: persinburbuja_spritesheet_7
+  - first:
+      213: -359142976576131305
+    second: persinburbuja_spritesheet_8
+  - first:
+      213: 3004572768554560102
+    second: persinburbuja_spritesheet_9
+  - first:
+      213: 9048139891998052237
+    second: persinburbuja_spritesheet_10
+  - first:
+      213: 2593386913018936072
+    second: persinburbuja_spritesheet_11
+  - first:
+      213: 6280780580867925475
+    second: persinburbuja_spritesheet_12
+  - first:
+      213: 4126126122059075297
+    second: persinburbuja_spritesheet_13
+  - first:
+      213: 8137120181758646560
+    second: persinburbuja_spritesheet_14
+  - first:
+      213: 774648374682676936
+    second: persinburbuja_spritesheet_15
+  - first:
+      213: 1690486724982735740
+    second: persinburbuja_spritesheet_16
+  - first:
+      213: 3783932632824946656
+    second: persinburbuja_spritesheet_17
+  - first:
+      213: 1437146163187157568
+    second: persinburbuja_spritesheet_18
+  - first:
+      213: -9054265650850911932
+    second: persinburbuja_spritesheet_19
+  - first:
+      213: -1913018524179739127
+    second: persinburbuja_spritesheet_20
+  - first:
+      213: -5160299604600364197
+    second: persinburbuja_spritesheet_21
+  - first:
+      213: 8061935488001351796
+    second: persinburbuja_spritesheet_22
+  - first:
+      213: -8686253818592340423
+    second: persinburbuja_spritesheet_23
+  - first:
+      213: 7428922556477631144
+    second: persinburbuja_spritesheet_24
+  - first:
+      213: -6977235750244624820
+    second: persinburbuja_spritesheet_25
+  - first:
+      213: -4765862871837063524
+    second: persinburbuja_spritesheet_26
+  - first:
+      213: -6054124725247123925
+    second: persinburbuja_spritesheet_27
+  - first:
+      213: -3159349370408602068
+    second: persinburbuja_spritesheet_28
+  - first:
+      213: -6568225778503350262
+    second: persinburbuja_spritesheet_29
+  - first:
+      213: -2373183143734242059
+    second: persinburbuja_spritesheet_30
+  - first:
+      213: -1451964981653651613
+    second: persinburbuja_spritesheet_31
+  - first:
+      213: -1058171368696607907
+    second: persinburbuja_spritesheet_32
+  - first:
+      213: -3220227358887592422
+    second: persinburbuja_spritesheet_33
+  - first:
+      213: 8222687354906794733
+    second: persinburbuja_spritesheet_34
+  - first:
+      213: 7278279894609180162
+    second: persinburbuja_spritesheet_35
+  - first:
+      213: -6218715116674386777
+    second: persinburbuja_spritesheet_36
+  - first:
+      213: 2720875321505187408
+    second: persinburbuja_spritesheet_37
+  - first:
+      213: 7594950996355853397
+    second: persinburbuja_spritesheet_38
+  - first:
+      213: -3646129757186962526
+    second: persinburbuja_spritesheet_39
+  - first:
+      213: -3130734340868101244
+    second: persinburbuja_spritesheet_40
+  - first:
+      213: 733655120337685106
+    second: persinburbuja_spritesheet_41
+  - first:
+      213: -6025538888865407272
+    second: persinburbuja_spritesheet_42
+  - first:
+      213: -9066084095709715719
+    second: persinburbuja_spritesheet_43
+  - first:
+      213: 7909585488438525676
+    second: persinburbuja_spritesheet_44
+  - first:
+      213: 6133980172340767403
+    second: persinburbuja_spritesheet_45
+  - first:
+      213: -5059207415002539299
+    second: persinburbuja_spritesheet_46
+  - first:
+      213: 3327901465181653966
+    second: persinburbuja_spritesheet_47
+  - first:
+      213: 1820056392924366144
+    second: persinburbuja_spritesheet_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3349
+        width: 246
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83a3bb1084a40de0800000000000000
+      internalID: -1367787516686261361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 3350
+        width: 246
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8643b134bf704e90800000000000000
+      internalID: -7043489405302782326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 3350
+        width: 246
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa238f42580e8e320800000000000000
+      internalID: 2587564848379867823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 3351
+        width: 246
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030ee6d7c869c8550800000000000000
+      internalID: 6164467520107372592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3073
+        width: 245
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56e20a6f859455e0800000000000000
+      internalID: -1921746697788922277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 3074
+        width: 245
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b6c1724aa9eaca0800000000000000
+      internalID: -6003691223416804485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 3074
+        width: 245
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb01e89706c0ce460800000000000000
+      internalID: 7272201106792255676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 3075
+        width: 245
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a48b7441b4d1620800000000000000
+      internalID: 2746433898240559730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2797
+        width: 245
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f6a999d51140bf0800000000000000
+      internalID: -359142976576131305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2797
+        width: 245
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aa18b930362b920800000000000000
+      internalID: 3004572768554560102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2798
+        width: 244
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fc59cea43719d70800000000000000
+      internalID: 9048139891998052237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 2798
+        width: 244
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bf3a338af8df320800000000000000
+      internalID: 2593386913018936072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2520
+        width: 244
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5edca49a0d92750800000000000000
+      internalID: 6280780580867925475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2520
+        width: 242
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee8acbc8d1f24930800000000000000
+      internalID: 4126126122059075297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2521
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029d26861bbdce070800000000000000
+      internalID: 8137120181758646560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 2521
+        width: 242
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce6bcea79a10ca00800000000000000
+      internalID: 774648374682676936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2243
+        width: 240
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c730c1448b0d57710800000000000000
+      internalID: 1690486724982735740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2243
+        width: 242
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef1a817eaa338430800000000000000
+      internalID: 3783932632824946656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2244
+        width: 242
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a061332d4c1f310800000000000000
+      internalID: 1437146163187157568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 2244
+        width: 240
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449a203bc59c85280800000000000000
+      internalID: -9054265650850911932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1965
+        width: 239
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e4681b9c79375e0800000000000000
+      internalID: -1913018524179739127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1966
+        width: 239
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53e43d99dee268b0800000000000000
+      internalID: -5160299604600364197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1966
+        width: 239
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470af64cc9fb1ef60800000000000000
+      internalID: 8061935488001351796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1966
+        width: 237
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9365ce97c2a347780800000000000000
+      internalID: -8686253818592340423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1687
+        width: 238
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa6cba74b5d81760800000000000000
+      internalID: 7428922556477631144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1687
+        width: 239
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4653885d01eb2f90800000000000000
+      internalID: -6977235750244624820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1687
+        width: 239
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96cdebf7f04cddb0800000000000000
+      internalID: -4765862871837063524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1687
+        width: 240
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e5cb573ad6bfba0800000000000000
+      internalID: -6054124725247123925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1407
+        width: 240
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26f07f8c7cb724d0800000000000000
+      internalID: -3159349370408602068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1407
+        width: 241
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a088eb35479f8d4a0800000000000000
+      internalID: -6568225778503350262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1407
+        width: 242
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f496c22182c01fd0800000000000000
+      internalID: -2373183143734242059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1406
+        width: 242
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f3a32ca8599dbe0800000000000000
+      internalID: -1451964981653651613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1127
+        width: 241
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b89512fbe9051f0800000000000000
+      internalID: -1058171368696607907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1126
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eb28157447f43d0800000000000000
+      internalID: -3220227358887592422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1126
+        width: 244
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dead058659adc1270800000000000000
+      internalID: 8222687354906794733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1125
+        width: 244
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2063c0e8005a10560800000000000000
+      internalID: 7278279894609180162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 846
+        width: 245
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4754fac8fa2b9a0800000000000000
+      internalID: -6218715116674386777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 845
+        width: 245
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056817860bd72c520800000000000000
+      internalID: 2720875321505187408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 845
+        width: 245
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c2a4001bfa66960800000000000000
+      internalID: 7594950996355853397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 844
+        width: 246
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abc3e9cd48566dc0800000000000000
+      internalID: -3646129757186962526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 565
+        width: 246
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ba07e44b56d84d0800000000000000
+      internalID: -3130734340868101244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 564
+        width: 246
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27acf53e1777e2a00800000000000000
+      internalID: 733655120337685106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 563
+        width: 246
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de10e42e4cf06ca0800000000000000
+      internalID: -6025538888865407272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 563
+        width: 246
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f267639c8cce2280800000000000000
+      internalID: -9066084095709715719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 283
+        width: 246
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee76fe481e74cd60800000000000000
+      internalID: 7909585488438525676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 282
+        width: 247
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa29afa776402550800000000000000
+      internalID: 6133980172340767403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 281
+        width: 247
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda50cf29a51ac9b0800000000000000
+      internalID: -5059207415002539299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 281
+        width: 247
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb87a720c41f2e20800000000000000
+      internalID: 3327901465181653966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: persinburbuja_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 247
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0458f6375a3224910800000000000000
+      internalID: 1820056392924366144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      persinburbuja_spritesheet_0: -1367787516686261361
+      persinburbuja_spritesheet_1: -7043489405302782326
+      persinburbuja_spritesheet_10: 9048139891998052237
+      persinburbuja_spritesheet_11: 2593386913018936072
+      persinburbuja_spritesheet_12: 6280780580867925475
+      persinburbuja_spritesheet_13: 4126126122059075297
+      persinburbuja_spritesheet_14: 8137120181758646560
+      persinburbuja_spritesheet_15: 774648374682676936
+      persinburbuja_spritesheet_16: 1690486724982735740
+      persinburbuja_spritesheet_17: 3783932632824946656
+      persinburbuja_spritesheet_18: 1437146163187157568
+      persinburbuja_spritesheet_19: -9054265650850911932
+      persinburbuja_spritesheet_2: 2587564848379867823
+      persinburbuja_spritesheet_20: -1913018524179739127
+      persinburbuja_spritesheet_21: -5160299604600364197
+      persinburbuja_spritesheet_22: 8061935488001351796
+      persinburbuja_spritesheet_23: -8686253818592340423
+      persinburbuja_spritesheet_24: 7428922556477631144
+      persinburbuja_spritesheet_25: -6977235750244624820
+      persinburbuja_spritesheet_26: -4765862871837063524
+      persinburbuja_spritesheet_27: -6054124725247123925
+      persinburbuja_spritesheet_28: -3159349370408602068
+      persinburbuja_spritesheet_29: -6568225778503350262
+      persinburbuja_spritesheet_3: 6164467520107372592
+      persinburbuja_spritesheet_30: -2373183143734242059
+      persinburbuja_spritesheet_31: -1451964981653651613
+      persinburbuja_spritesheet_32: -1058171368696607907
+      persinburbuja_spritesheet_33: -3220227358887592422
+      persinburbuja_spritesheet_34: 8222687354906794733
+      persinburbuja_spritesheet_35: 7278279894609180162
+      persinburbuja_spritesheet_36: -6218715116674386777
+      persinburbuja_spritesheet_37: 2720875321505187408
+      persinburbuja_spritesheet_38: 7594950996355853397
+      persinburbuja_spritesheet_39: -3646129757186962526
+      persinburbuja_spritesheet_4: -1921746697788922277
+      persinburbuja_spritesheet_40: -3130734340868101244
+      persinburbuja_spritesheet_41: 733655120337685106
+      persinburbuja_spritesheet_42: -6025538888865407272
+      persinburbuja_spritesheet_43: -9066084095709715719
+      persinburbuja_spritesheet_44: 7909585488438525676
+      persinburbuja_spritesheet_45: 6133980172340767403
+      persinburbuja_spritesheet_46: -5059207415002539299
+      persinburbuja_spritesheet_47: 3327901465181653966
+      persinburbuja_spritesheet_48: 1820056392924366144
+      persinburbuja_spritesheet_5: -6003691223416804485
+      persinburbuja_spritesheet_6: 7272201106792255676
+      persinburbuja_spritesheet_7: 2746433898240559730
+      persinburbuja_spritesheet_8: -359142976576131305
+      persinburbuja_spritesheet_9: 3004572768554560102
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

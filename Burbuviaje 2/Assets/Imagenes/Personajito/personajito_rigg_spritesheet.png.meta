@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 29c474a7c23d95f4a995dbc316f9d64d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3321730834294165204
+    second: personajito_rigg_spritesheet_0
+  - first:
+      213: -6763793562779466089
+    second: personajito_rigg_spritesheet_1
+  - first:
+      213: 2638681701863365162
+    second: personajito_rigg_spritesheet_2
+  - first:
+      213: 5479712958796134817
+    second: personajito_rigg_spritesheet_3
+  - first:
+      213: -891587231981217512
+    second: personajito_rigg_spritesheet_4
+  - first:
+      213: 4337897480320688917
+    second: personajito_rigg_spritesheet_5
+  - first:
+      213: -1943314615284311721
+    second: personajito_rigg_spritesheet_6
+  - first:
+      213: -7029067811871276857
+    second: personajito_rigg_spritesheet_7
+  - first:
+      213: 294491185250301170
+    second: personajito_rigg_spritesheet_8
+  - first:
+      213: -6567863157116923625
+    second: personajito_rigg_spritesheet_9
+  - first:
+      213: 2151145954335166179
+    second: personajito_rigg_spritesheet_10
+  - first:
+      213: -1229656160587676004
+    second: personajito_rigg_spritesheet_11
+  - first:
+      213: -8929863477174229409
+    second: personajito_rigg_spritesheet_12
+  - first:
+      213: 2219309442304070676
+    second: personajito_rigg_spritesheet_13
+  - first:
+      213: 320731996267520400
+    second: personajito_rigg_spritesheet_14
+  - first:
+      213: 3337537271967759988
+    second: personajito_rigg_spritesheet_15
+  - first:
+      213: 5277143602053065031
+    second: personajito_rigg_spritesheet_16
+  - first:
+      213: -4571239938737643950
+    second: personajito_rigg_spritesheet_17
+  - first:
+      213: -5817351075925763464
+    second: personajito_rigg_spritesheet_18
+  - first:
+      213: -5733927823443690531
+    second: personajito_rigg_spritesheet_19
+  - first:
+      213: 4008732724535887345
+    second: personajito_rigg_spritesheet_20
+  - first:
+      213: 4477545029714312776
+    second: personajito_rigg_spritesheet_21
+  - first:
+      213: -4104070780155692558
+    second: personajito_rigg_spritesheet_22
+  - first:
+      213: 2645213020914335732
+    second: personajito_rigg_spritesheet_23
+  - first:
+      213: -8115510226760795377
+    second: personajito_rigg_spritesheet_24
+  - first:
+      213: 1853504013310724054
+    second: personajito_rigg_spritesheet_25
+  - first:
+      213: 1978444322786644442
+    second: personajito_rigg_spritesheet_26
+  - first:
+      213: -3918876409422633296
+    second: personajito_rigg_spritesheet_27
+  - first:
+      213: -8713194253752148482
+    second: personajito_rigg_spritesheet_28
+  - first:
+      213: -4283982760079523571
+    second: personajito_rigg_spritesheet_29
+  - first:
+      213: -5739313974458370674
+    second: personajito_rigg_spritesheet_30
+  - first:
+      213: 4419620416840529784
+    second: personajito_rigg_spritesheet_31
+  - first:
+      213: 539720249289274455
+    second: personajito_rigg_spritesheet_32
+  - first:
+      213: -4553979488458698568
+    second: personajito_rigg_spritesheet_33
+  - first:
+      213: 1141579986122796101
+    second: personajito_rigg_spritesheet_34
+  - first:
+      213: 5364157748377275324
+    second: personajito_rigg_spritesheet_35
+  - first:
+      213: 5739255450403089171
+    second: personajito_rigg_spritesheet_36
+  - first:
+      213: -7220108071222683319
+    second: personajito_rigg_spritesheet_37
+  - first:
+      213: -7699883979394502250
+    second: personajito_rigg_spritesheet_38
+  - first:
+      213: -491594393809506831
+    second: personajito_rigg_spritesheet_39
+  - first:
+      213: 4917952726681797840
+    second: personajito_rigg_spritesheet_40
+  - first:
+      213: 7972965620677995280
+    second: personajito_rigg_spritesheet_41
+  - first:
+      213: 9123195838113372476
+    second: personajito_rigg_spritesheet_42
+  - first:
+      213: -6157837773916839619
+    second: personajito_rigg_spritesheet_43
+  - first:
+      213: -4490462776512418026
+    second: personajito_rigg_spritesheet_44
+  - first:
+      213: -6913566572070625243
+    second: personajito_rigg_spritesheet_45
+  - first:
+      213: 492145689335496460
+    second: personajito_rigg_spritesheet_46
+  - first:
+      213: -4342587263486436480
+    second: personajito_rigg_spritesheet_47
+  - first:
+      213: -3057908344956434896
+    second: personajito_rigg_spritesheet_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 4530
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c213f6ec767d6e1d0800000000000000
+      internalID: -3321730834294165204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 4530
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796c47c379d2222a0800000000000000
+      internalID: -6763793562779466089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 4530
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a93ea070b7e9420800000000000000
+      internalID: 2638681701863365162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 4530
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9f52c37e9db0c40800000000000000
+      internalID: 5479712958796134817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 4155
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8195c77e22270a3f0800000000000000
+      internalID: -891587231981217512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 4155
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513a39276ce433c30800000000000000
+      internalID: 4337897480320688917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 4155
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759572d47a5f705e0800000000000000
+      internalID: -1943314615284311721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 4155
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0c743111cb37e90800000000000000
+      internalID: -7029067811871276857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3780
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4f3563c2e361400800000000000000
+      internalID: 294491185250301170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 3780
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7119ba2b1434ad4a0800000000000000
+      internalID: -6567863157116923625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 3780
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee8a2429d76add10800000000000000
+      internalID: 2151145954335166179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 3780
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c960d48ac326feee0800000000000000
+      internalID: -1229656160587676004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3405
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56ab4eda70c21480800000000000000
+      internalID: -8929863477174229409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 3405
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414543bed229cce10800000000000000
+      internalID: 2219309442304070676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 3405
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091a0a12d08737400800000000000000
+      internalID: 320731996267520400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 3405
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47eb3404770515e20800000000000000
+      internalID: 3337537271967759988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3030
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7492915852e2c3940800000000000000
+      internalID: 5277143602053065031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 3030
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ed674ce71bf80c0800000000000000
+      internalID: -4571239938737643950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 3030
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a55b1a40e944fa0800000000000000
+      internalID: -5817351075925763464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 3030
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbf8e3360ffc60b0800000000000000
+      internalID: -5733927823443690531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2655
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5027d7c21e1a730800000000000000
+      internalID: 4008732724535887345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2655
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84effe14b7f632e30800000000000000
+      internalID: 4477545029714312776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2655
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f972c7ae596b07c0800000000000000
+      internalID: -4104070780155692558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 2655
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff36d24a3fa5b420800000000000000
+      internalID: 2645213020914335732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2280
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b7fd2527aef5f80800000000000000
+      internalID: -8115510226760795377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2280
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7852f6418f8b910800000000000000
+      internalID: 1853504013310724054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2280
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1169b11a8d47b10800000000000000
+      internalID: 1978444322786644442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 2280
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6a4b13baa5d99c0800000000000000
+      internalID: -3918876409422633296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1905
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdd02e9df3841780800000000000000
+      internalID: -8713194253752148482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1905
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d010091906c3c84c0800000000000000
+      internalID: -4283982760079523571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1905
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8539f1395cd950b0800000000000000
+      internalID: -5739313974458370674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1905
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877f7db5a55a55d30800000000000000
+      internalID: 4419620416840529784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1530
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754f8f805b87d7700800000000000000
+      internalID: 539720249289274455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1530
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0110488c30dc0c0800000000000000
+      internalID: -4553979488458698568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1530
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c6b83f2f4b7df00800000000000000
+      internalID: 1141579986122796101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1530
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbcf273d01517a40800000000000000
+      internalID: 5364157748377275324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1155
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b208c9c6ee5af40800000000000000
+      internalID: 5739255450403089171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1155
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94957d686f50dcb90800000000000000
+      internalID: -7220108071222683319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1155
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69138740154842590800000000000000
+      internalID: -7699883979394502250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1155
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd296fd0818d29f0800000000000000
+      internalID: -491594393809506831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 780
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d44800d2f3104440800000000000000
+      internalID: 4917952726681797840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 780
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01be9ea4df9a5ae60800000000000000
+      internalID: 7972965620677995280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 780
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39d11b274a1c9e70800000000000000
+      internalID: 9123195838113372476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 780
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3164359b27fa8aa0800000000000000
+      internalID: -6157837773916839619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 405
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fecd075ebaea1c0800000000000000
+      internalID: -4490462776512418026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 405
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52027b415d31e00a0800000000000000
+      internalID: -6913566572070625243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 405
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ff49e95e374d600800000000000000
+      internalID: 492145689335496460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 405
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b51c154e70cb3c0800000000000000
+      internalID: -4342587263486436480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajito_rigg_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 30
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0364b2fcf802095d0800000000000000
+      internalID: -3057908344956434896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      personajito_rigg_spritesheet_0: -3321730834294165204
+      personajito_rigg_spritesheet_1: -6763793562779466089
+      personajito_rigg_spritesheet_10: 2151145954335166179
+      personajito_rigg_spritesheet_11: -1229656160587676004
+      personajito_rigg_spritesheet_12: -8929863477174229409
+      personajito_rigg_spritesheet_13: 2219309442304070676
+      personajito_rigg_spritesheet_14: 320731996267520400
+      personajito_rigg_spritesheet_15: 3337537271967759988
+      personajito_rigg_spritesheet_16: 5277143602053065031
+      personajito_rigg_spritesheet_17: -4571239938737643950
+      personajito_rigg_spritesheet_18: -5817351075925763464
+      personajito_rigg_spritesheet_19: -5733927823443690531
+      personajito_rigg_spritesheet_2: 2638681701863365162
+      personajito_rigg_spritesheet_20: 4008732724535887345
+      personajito_rigg_spritesheet_21: 4477545029714312776
+      personajito_rigg_spritesheet_22: -4104070780155692558
+      personajito_rigg_spritesheet_23: 2645213020914335732
+      personajito_rigg_spritesheet_24: -8115510226760795377
+      personajito_rigg_spritesheet_25: 1853504013310724054
+      personajito_rigg_spritesheet_26: 1978444322786644442
+      personajito_rigg_spritesheet_27: -3918876409422633296
+      personajito_rigg_spritesheet_28: -8713194253752148482
+      personajito_rigg_spritesheet_29: -4283982760079523571
+      personajito_rigg_spritesheet_3: 5479712958796134817
+      personajito_rigg_spritesheet_30: -5739313974458370674
+      personajito_rigg_spritesheet_31: 4419620416840529784
+      personajito_rigg_spritesheet_32: 539720249289274455
+      personajito_rigg_spritesheet_33: -4553979488458698568
+      personajito_rigg_spritesheet_34: 1141579986122796101
+      personajito_rigg_spritesheet_35: 5364157748377275324
+      personajito_rigg_spritesheet_36: 5739255450403089171
+      personajito_rigg_spritesheet_37: -7220108071222683319
+      personajito_rigg_spritesheet_38: -7699883979394502250
+      personajito_rigg_spritesheet_39: -491594393809506831
+      personajito_rigg_spritesheet_4: -891587231981217512
+      personajito_rigg_spritesheet_40: 4917952726681797840
+      personajito_rigg_spritesheet_41: 7972965620677995280
+      personajito_rigg_spritesheet_42: 9123195838113372476
+      personajito_rigg_spritesheet_43: -6157837773916839619
+      personajito_rigg_spritesheet_44: -4490462776512418026
+      personajito_rigg_spritesheet_45: -6913566572070625243
+      personajito_rigg_spritesheet_46: 492145689335496460
+      personajito_rigg_spritesheet_47: -4342587263486436480
+      personajito_rigg_spritesheet_48: -3057908344956434896
+      personajito_rigg_spritesheet_5: 4337897480320688917
+      personajito_rigg_spritesheet_6: -1943314615284311721
+      personajito_rigg_spritesheet_7: -7029067811871276857
+      personajito_rigg_spritesheet_8: 294491185250301170
+      personajito_rigg_spritesheet_9: -6567863157116923625
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

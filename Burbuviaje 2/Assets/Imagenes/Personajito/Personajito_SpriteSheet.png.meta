@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: b52b17297f480b74fb8c2a9ecca6f3e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6043609928126429743
+    second: Personajito_SpriteSheet_0
+  - first:
+      213: -8353965947439776138
+    second: Personajito_SpriteSheet_1
+  - first:
+      213: -4763706349581885706
+    second: Personajito_SpriteSheet_2
+  - first:
+      213: -3578528916185842213
+    second: Personajito_SpriteSheet_3
+  - first:
+      213: 7130569028347939070
+    second: Personajito_SpriteSheet_4
+  - first:
+      213: 329582454469902910
+    second: Personajito_SpriteSheet_5
+  - first:
+      213: -2251069282171980398
+    second: Personajito_SpriteSheet_6
+  - first:
+      213: -911876793381655955
+    second: Personajito_SpriteSheet_7
+  - first:
+      213: -3367166397942904261
+    second: Personajito_SpriteSheet_8
+  - first:
+      213: -443525488831797826
+    second: Personajito_SpriteSheet_9
+  - first:
+      213: -5521257422772202537
+    second: Personajito_SpriteSheet_10
+  - first:
+      213: 1494232092627517817
+    second: Personajito_SpriteSheet_11
+  - first:
+      213: -3464000835477935137
+    second: Personajito_SpriteSheet_12
+  - first:
+      213: 4136556313776543745
+    second: Personajito_SpriteSheet_13
+  - first:
+      213: -2126832994612794039
+    second: Personajito_SpriteSheet_14
+  - first:
+      213: 7310044874315146816
+    second: Personajito_SpriteSheet_15
+  - first:
+      213: 736741328001868199
+    second: Personajito_SpriteSheet_16
+  - first:
+      213: -9166562139806411788
+    second: Personajito_SpriteSheet_17
+  - first:
+      213: -3020930587270674466
+    second: Personajito_SpriteSheet_18
+  - first:
+      213: 4833306838322586096
+    second: Personajito_SpriteSheet_19
+  - first:
+      213: -993339776826349626
+    second: Personajito_SpriteSheet_20
+  - first:
+      213: 3143097276590561062
+    second: Personajito_SpriteSheet_21
+  - first:
+      213: 5574671824116443552
+    second: Personajito_SpriteSheet_22
+  - first:
+      213: 7935691975578054049
+    second: Personajito_SpriteSheet_23
+  - first:
+      213: 2304953005427417665
+    second: Personajito_SpriteSheet_24
+  - first:
+      213: 5242314646050386672
+    second: Personajito_SpriteSheet_25
+  - first:
+      213: -8402562524429824957
+    second: Personajito_SpriteSheet_26
+  - first:
+      213: 4042320967511095966
+    second: Personajito_SpriteSheet_27
+  - first:
+      213: 8031469689291198161
+    second: Personajito_SpriteSheet_28
+  - first:
+      213: 3437723473253034520
+    second: Personajito_SpriteSheet_29
+  - first:
+      213: -254811103369707384
+    second: Personajito_SpriteSheet_30
+  - first:
+      213: -3116981529665501485
+    second: Personajito_SpriteSheet_31
+  - first:
+      213: -6661971688010849074
+    second: Personajito_SpriteSheet_32
+  - first:
+      213: 5794574546435289367
+    second: Personajito_SpriteSheet_33
+  - first:
+      213: -664625268453920661
+    second: Personajito_SpriteSheet_34
+  - first:
+      213: 1931947151367177896
+    second: Personajito_SpriteSheet_35
+  - first:
+      213: 3985140778444536231
+    second: Personajito_SpriteSheet_36
+  - first:
+      213: -5562808978148767488
+    second: Personajito_SpriteSheet_37
+  - first:
+      213: 1005701086251112166
+    second: Personajito_SpriteSheet_38
+  - first:
+      213: 7457724023022522661
+    second: Personajito_SpriteSheet_39
+  - first:
+      213: 3187429707265687987
+    second: Personajito_SpriteSheet_40
+  - first:
+      213: -2245448591782136689
+    second: Personajito_SpriteSheet_41
+  - first:
+      213: -5052595233573435513
+    second: Personajito_SpriteSheet_42
+  - first:
+      213: -3356401137348542629
+    second: Personajito_SpriteSheet_43
+  - first:
+      213: -3107594693360127826
+    second: Personajito_SpriteSheet_44
+  - first:
+      213: -606126453623640789
+    second: Personajito_SpriteSheet_45
+  - first:
+      213: -5856802043930190922
+    second: Personajito_SpriteSheet_46
+  - first:
+      213: -5713067807931027340
+    second: Personajito_SpriteSheet_47
+  - first:
+      213: 2997110831608038114
+    second: Personajito_SpriteSheet_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3780
+        width: 303
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d500017ac8c02ca0800000000000000
+      internalID: -6043609928126429743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3780
+        width: 304
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e74256b30c01c80800000000000000
+      internalID: -8353965947439776138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 3781
+        width: 304
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe16e2705ae3edb0800000000000000
+      internalID: -4763706349581885706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 3782
+        width: 304
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd774c19e2865ec0800000000000000
+      internalID: -3578528916185842213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3468
+        width: 303
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8c41d70ced4f260800000000000000
+      internalID: 7130569028347939070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3469
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3241e20f79e29400800000000000000
+      internalID: 329582454469902910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 3470
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295785f1a6892c0e0800000000000000
+      internalID: -2251069282171980398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 3470
+        width: 304
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a609343ec5853f0800000000000000
+      internalID: -911876793381655955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3156
+        width: 303
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a4bf6400c6541d0800000000000000
+      internalID: -3367166397942904261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3157
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb56955fae748d9f0800000000000000
+      internalID: -443525488831797826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 3157
+        width: 304
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d39c2a70ad8063b0800000000000000
+      internalID: -5521257422772202537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 3158
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9714d05eb249cb410800000000000000
+      internalID: 1494232092627517817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2843
+        width: 303
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb6eabd7956defc0800000000000000
+      internalID: -3464000835477935137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2844
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108dc0c0d00086930800000000000000
+      internalID: 4136556313776543745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 2844
+        width: 304
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d268be8a8fb72e0800000000000000
+      internalID: -2126832994612794039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 2845
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04628b9351f727560800000000000000
+      internalID: 7310044874315146816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2530
+        width: 303
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1a6ea955e693a00800000000000000
+      internalID: 736741328001868199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2530
+        width: 304
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f35b45ec44d9c080800000000000000
+      internalID: -9166562139806411788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 2531
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed78e9ee2af7316d0800000000000000
+      internalID: -3020930587270674466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 2531
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f12fa426fa531340800000000000000
+      internalID: 4833306838322586096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2216
+        width: 303
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7eff46cb2f632f0800000000000000
+      internalID: -993339776826349626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2216
+        width: 304
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6279da9f1568e9b20800000000000000
+      internalID: 3143097276590561062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 2217
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9e6d7fc763d5d40800000000000000
+      internalID: 5574671824116443552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 2217
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad6f338ecd312e60800000000000000
+      internalID: 7935691975578054049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1902
+        width: 303
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1426878db86dcff10800000000000000
+      internalID: 2304953005427417665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1902
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f239a6456170c840800000000000000
+      internalID: 5242314646050386672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1902
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cc95817e9146b80800000000000000
+      internalID: -8402562524429824957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1901
+        width: 304
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9abc98b085391830800000000000000
+      internalID: 4042320967511095966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1586
+        width: 303
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dec48e3123857f60800000000000000
+      internalID: 8031469689291198161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1586
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ae44bf84f35bf20800000000000000
+      internalID: 3437723473253034520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1586
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880c2dac6aab67cf0800000000000000
+      internalID: -254811103369707384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1585
+        width: 304
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d685d030d14eb4d0800000000000000
+      internalID: -3116981529665501485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1270
+        width: 303
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec46760eb0ceb83a0800000000000000
+      internalID: -6661971688010849074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1270
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711bbc859d67a6050800000000000000
+      internalID: 5794574546435289367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1269
+        width: 304
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b603e05f6d6c6c6f0800000000000000
+      internalID: -664625268453920661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1269
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a68112c2b7afca10800000000000000
+      internalID: 1931947151367177896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 953
+        width: 303
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a93c1f7c601e4730800000000000000
+      internalID: 3985140778444536231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 953
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009c61815beecc2b0800000000000000
+      internalID: -5562808978148767488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 952
+        width: 304
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6d83c3fc7f4fd00800000000000000
+      internalID: 1005701086251112166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 952
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52197297c782f7760800000000000000
+      internalID: 7457724023022522661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 303
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b149185e660c3c20800000000000000
+      internalID: 3187429707265687987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 635
+        width: 304
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84bc65176096d0e0800000000000000
+      internalID: -2245448591782136689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 635
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7870605a76391e9b0800000000000000
+      internalID: -5052595233573435513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 634
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f7f94d2faab61d0800000000000000
+      internalID: -3356401137348542629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 303
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea07164571b9fd4d0800000000000000
+      internalID: -3107594693360127826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 317
+        width: 304
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dabcaa33b9697f0800000000000000
+      internalID: -606126453623640789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 316
+        width: 304
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb52cb529578bea0800000000000000
+      internalID: -5856802043930190922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 315
+        width: 304
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4703d8a091b17b0b0800000000000000
+      internalID: -5713067807931027340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 303
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e209760c60e79920800000000000000
+      internalID: 2997110831608038114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Personajito_SpriteSheet_0: -6043609928126429743
+      Personajito_SpriteSheet_1: -8353965947439776138
+      Personajito_SpriteSheet_10: -5521257422772202537
+      Personajito_SpriteSheet_11: 1494232092627517817
+      Personajito_SpriteSheet_12: -3464000835477935137
+      Personajito_SpriteSheet_13: 4136556313776543745
+      Personajito_SpriteSheet_14: -2126832994612794039
+      Personajito_SpriteSheet_15: 7310044874315146816
+      Personajito_SpriteSheet_16: 736741328001868199
+      Personajito_SpriteSheet_17: -9166562139806411788
+      Personajito_SpriteSheet_18: -3020930587270674466
+      Personajito_SpriteSheet_19: 4833306838322586096
+      Personajito_SpriteSheet_2: -4763706349581885706
+      Personajito_SpriteSheet_20: -993339776826349626
+      Personajito_SpriteSheet_21: 3143097276590561062
+      Personajito_SpriteSheet_22: 5574671824116443552
+      Personajito_SpriteSheet_23: 7935691975578054049
+      Personajito_SpriteSheet_24: 2304953005427417665
+      Personajito_SpriteSheet_25: 5242314646050386672
+      Personajito_SpriteSheet_26: -8402562524429824957
+      Personajito_SpriteSheet_27: 4042320967511095966
+      Personajito_SpriteSheet_28: 8031469689291198161
+      Personajito_SpriteSheet_29: 3437723473253034520
+      Personajito_SpriteSheet_3: -3578528916185842213
+      Personajito_SpriteSheet_30: -254811103369707384
+      Personajito_SpriteSheet_31: -3116981529665501485
+      Personajito_SpriteSheet_32: -6661971688010849074
+      Personajito_SpriteSheet_33: 5794574546435289367
+      Personajito_SpriteSheet_34: -664625268453920661
+      Personajito_SpriteSheet_35: 1931947151367177896
+      Personajito_SpriteSheet_36: 3985140778444536231
+      Personajito_SpriteSheet_37: -5562808978148767488
+      Personajito_SpriteSheet_38: 1005701086251112166
+      Personajito_SpriteSheet_39: 7457724023022522661
+      Personajito_SpriteSheet_4: 7130569028347939070
+      Personajito_SpriteSheet_40: 3187429707265687987
+      Personajito_SpriteSheet_41: -2245448591782136689
+      Personajito_SpriteSheet_42: -5052595233573435513
+      Personajito_SpriteSheet_43: -3356401137348542629
+      Personajito_SpriteSheet_44: -3107594693360127826
+      Personajito_SpriteSheet_45: -606126453623640789
+      Personajito_SpriteSheet_46: -5856802043930190922
+      Personajito_SpriteSheet_47: -5713067807931027340
+      Personajito_SpriteSheet_48: 2997110831608038114
+      Personajito_SpriteSheet_5: 329582454469902910
+      Personajito_SpriteSheet_6: -2251069282171980398
+      Personajito_SpriteSheet_7: -911876793381655955
+      Personajito_SpriteSheet_8: -3367166397942904261
+      Personajito_SpriteSheet_9: -443525488831797826
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
