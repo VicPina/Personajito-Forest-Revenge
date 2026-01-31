@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Personajito : MonoBehaviour
 {
@@ -67,6 +68,11 @@ public class Personajito : MonoBehaviour
             //Empizo a mover el fondo
             moverFondo();
         }
+
+        if (transform.position.y < -7)
+        {
+            SceneManager.LoadSceneAsync(2);
+        }
     }
 
 
@@ -94,6 +100,7 @@ public class Personajito : MonoBehaviour
             animacion.SetBool("Cambio", false);
             animacion.SetBool("Cayendo", true);
             rg2d.gravityScale = 2f;
+            Debug.Log(transform.position.y);
             
         }
 
