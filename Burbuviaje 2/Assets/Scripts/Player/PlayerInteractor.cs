@@ -13,10 +13,8 @@ public class PlayerInteractor : MonoBehaviour
     }
     public void InteractWithObject()
     {
-        print("Interaction recieved");
         if(itemInRange != null)
         {
-            print($"Interacted with {itemInRange.name}");
             itemInRange.onInteraction.Invoke();
         }
     }
