@@ -14,6 +14,7 @@ public class MaskSlot : MonoBehaviour
     }
     public void LoadSlotInfo(MaskData maskData)
     {
+        slotIcon.enabled = true;
         slotIcon.sprite = maskData.itemVisual;
     }
 }

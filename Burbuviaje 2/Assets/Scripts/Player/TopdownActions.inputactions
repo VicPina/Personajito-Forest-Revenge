@@ -157,6 +157,17 @@
                     "isPartOfComposite": false
                 },
                 {
+                    "name": "",
+                    "id": "47182418-2452-40cc-9fc7-b0c402561990",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Interact",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
                     "name": "2D Vector",
                     "id": "29ae71c3-eac4-40f6-9c40-9211312d8395",
                     "path": "2DVector",

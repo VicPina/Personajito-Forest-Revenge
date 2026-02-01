@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: HareMask
   m_EditorClassIdentifier: Assembly-CSharp::MaskData
   itemName: Mascara de la Liebre
-  itemVisual: {fileID: 21300000, guid: 64bcd90c00771d94497001630b9db4fc, type: 3}
+  itemVisual: {fileID: 21300000, guid: 920c22c0edfeb5d4eaede951d7895d84, type: 3}
   maskType: 1
