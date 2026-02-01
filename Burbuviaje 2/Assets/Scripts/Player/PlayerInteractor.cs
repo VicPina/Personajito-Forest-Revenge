@@ -35,11 +35,15 @@ public class PlayerInteractor : MonoBehaviour
     }
     public void InteractWithObject()
     {
-        interactableInRange?.Interact();
-        if (!interactableInRange.CanInteract())
-        {
-            interactionIcon.SetActive(false);
+        if (interactableInRange != null) 
+            {
+            interactableInRange.Interact();
+            if (!interactableInRange.CanInteract())
+            {
+                interactionIcon.SetActive(false);
+            }
         }
+        
 
         if (itemInRange != null)
         {

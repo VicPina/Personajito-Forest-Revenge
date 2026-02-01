@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 05aa9fbcbb688f64d860d34820513ed3, type: 3}
   m_Name: Test Item
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
-  itemName: Test potion red
-  itemVisual: {fileID: -2386096532565467540, guid: 0dc6304c1d8dc1f4abedb871fb739104, type: 3}
+  itemName: Mascara Bosque
+  itemVisual: {fileID: 21300000, guid: 64bcd90c00771d94497001630b9db4fc, type: 3}
