@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Interactable
   - NPC
+  - Mask
   layers:
   - Default
   - TransparentFX
