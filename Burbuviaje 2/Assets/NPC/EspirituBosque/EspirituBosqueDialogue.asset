@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39198922be86ed5499b79b7d5bd10559, type: 3}
+  m_Name: EspirituBosqueDialogue
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialog
+  NPCName: Espiritu del Bosque
+  NPCPortrait: {fileID: 21300000, guid: 67e2728dc7469d040a848a39dfd7e627, type: 3}
+  dialogueLines:
+  - Bienvenido Viajero!!!
+  - Te he traido aqui para que me ayudes a recuperar mis mascaras robadas
+  - Busca a los Espiritus inferiores y recuperalas
+  - Solo asi podras regresar a tu mundo!!!!
+  - Buena suerte!!!!
+  autoProgressLine: 01010100
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voiceSound: {fileID: 8300000, guid: 458f1a2a57fdc4546bc64da97c0e4cec, type: 3}
+  voicePitch: 1
