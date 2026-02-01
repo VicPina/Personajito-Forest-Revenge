@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: DesiertoIdleDerecha
+  m_Name: BosqueIdleDerecha
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,7 +21,7 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: 5545134867093497432, guid: 1728a8a81cabeda49869b31f64809d20, type: 3}
+      value: {fileID: 7803960754909661192, guid: 64ac76d709a65d9499ba464e70ff0c86, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -44,7 +44,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: 5545134867093497432, guid: 1728a8a81cabeda49869b31f64809d20, type: 3}
+    - {fileID: 7803960754909661192, guid: 64ac76d709a65d9499ba464e70ff0c86, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
