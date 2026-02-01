@@ -10,15 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 39198922be86ed5499b79b7d5bd10559, type: 3}
-  m_Name: EspirituBosqueDialogue
+  m_Name: EspirituMaestro
   m_EditorClassIdentifier: Assembly-CSharp::NPCDialog
-  NPCName: Espiritu del Bosque
-  NPCPortrait: {fileID: 21300000, guid: 67e2728dc7469d040a848a39dfd7e627, type: 3}
+  NPCName: Espiritu Maestro
+  NPCPortrait: {fileID: 21300000, guid: 12584cd83e5b6bf459ae783e8a401f48, type: 3}
   dialogueLines:
-  - Me gusta el bosque
-  - No me gustas tu!!!
-  autoProgressLine: 0101
+  - Bienvenido Viajero!!!
+  - Te he traido aqui para que me ayudes a recuperar mis mascaras robadas
+  - Busca a los Espiritus inferiores y recuperalas
+  - Solo asi podras regresar a tu mundo!!!!
+  - Buena suerte!!!!
+  autoProgressLine: 01010100
   autoProgressDelay: 1.5
   typingSpeed: 0.05
-  voiceSound: {fileID: 8300000, guid: 458f1a2a57fdc4546bc64da97c0e4cec, type: 3}
+  voiceSound: {fileID: 8300000, guid: 3530fc64317464043acaaa1ef2fc9d9f, type: 3}
   voicePitch: 1
