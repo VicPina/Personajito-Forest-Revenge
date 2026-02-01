@@ -18,4 +18,8 @@ public class InteractableItem : MonoBehaviour
         spriteRenderer.sprite = itemData.itemVisual;
         gameObject.name = itemData.itemName;
     }
+    public void DestroyItem()
+    {
+        Destroy(gameObject);
+    }
 }

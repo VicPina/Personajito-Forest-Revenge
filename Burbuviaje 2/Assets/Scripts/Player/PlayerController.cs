@@ -5,6 +5,7 @@ public class PlayerController : MonoBehaviour
 {
     public PlayerInteractor interactor;
     public PlayerAnimator playerAnimator;
+    public MaskSelector maskSelector;
 
     public float movementSpeed = 1.0f;
 
@@ -31,11 +32,7 @@ public class PlayerController : MonoBehaviour
     {
         if(context.started)
         {
-            Vector2 mask = context.ReadValue<Vector2>();
-            if (mask.x < 0) { print(1); }
-            if (mask.y > 0) { print(2); }
-            if (mask.y < 0) { print(3); }
-            if (mask.x > 0) { print(4); }
+            maskSelector.ChooseMask(context.ReadValue<Vector2>());
         }
     }
     private void Awake()
