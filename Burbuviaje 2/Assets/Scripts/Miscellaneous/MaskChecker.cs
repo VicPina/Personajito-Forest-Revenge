@@ -5,7 +5,7 @@ public class MaskChecker : MonoBehaviour
 {
     public maskType maskNeeded;
     public UnityEvent onRightMask, onWrongMask;
-    private void CheckMask(maskType maskEquipped)
+    public void CheckMask(maskType maskEquipped)
     {
         if(maskNeeded == maskEquipped)
         {
