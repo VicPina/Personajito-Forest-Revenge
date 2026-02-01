@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class Gate : MonoBehaviour
@@ -8,7 +9,7 @@ public class Gate : MonoBehaviour
     {
         if (collision.CompareTag("Mask"))
         {
-            maskType maskInUse = collision.GetComponent<MaskSelector>().currentMask.maskType;
+            maskType maskInUse = collision.GetComponent<MaskSelector>().currentMask.IsUnityNull() ? maskType.None : collision.GetComponent<MaskSelector>().currentMask.maskType;
             checker.CheckMask(maskInUse);
         }
     }
