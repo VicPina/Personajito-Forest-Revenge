@@ -7,6 +7,10 @@ public class PlayerController : MonoBehaviour
     public PlayerAnimator playerAnimator;
     public MaskSelector maskSelector;
 
+    private MaskData maskData;
+
+   
+
     public float movementSpeed = 1.0f;
 
     private Rigidbody2D _rigidbody;
@@ -18,11 +22,13 @@ public class PlayerController : MonoBehaviour
         _movementInput = context.ReadValue<Vector2>();
         if (context.performed)
         {
-            playerAnimator.PHTurn(context.ReadValue<Vector2>());
+            
+            playerAnimator.PHTurn(context.ReadValue<Vector2>(), maskSelector.currentMask);
+            //Debug.Log(maskSelector.currentMask);
         }
         else
         {
-            playerAnimator.PHTurn(Vector2.zero);
+            playerAnimator.PHTurn(Vector2.zero, maskSelector.currentMask);
         }
     }
     public void OnPlayerInteraction(InputAction.CallbackContext context)
@@ -37,11 +43,13 @@ public class PlayerController : MonoBehaviour
         if(context.started)
         {
             maskSelector.ChooseMask(context.ReadValue<Vector2>());
+            maskData = maskSelector.currentMask; 
         }
     }
     private void Awake()
     {
         _rigidbody = GetComponent<Rigidbody2D>();
+        //maskData.maskType;
     }
     private void Update()
     {

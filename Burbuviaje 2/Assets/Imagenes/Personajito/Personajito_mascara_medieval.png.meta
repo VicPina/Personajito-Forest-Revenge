@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: d12e9c2850e8eae458d17e02e4f4cdf3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7456531028274577219
+    second: Personajito_mascara_medieval_0
+  - first:
+      213: 1220923452927644190
+    second: Personajito_mascara_medieval_1
+  - first:
+      213: 3526746442607482411
+    second: Personajito_mascara_medieval_2
+  - first:
+      213: 4367632630939526452
+    second: Personajito_mascara_medieval_3
+  - first:
+      213: -4883317368395605412
+    second: Personajito_mascara_medieval_4
+  - first:
+      213: 2815530054788267679
+    second: Personajito_mascara_medieval_5
+  - first:
+      213: 4796369595397851918
+    second: Personajito_mascara_medieval_6
+  - first:
+      213: -7383012610769368172
+    second: Personajito_mascara_medieval_7
+  - first:
+      213: -7075874538606131748
+    second: Personajito_mascara_medieval_8
+  - first:
+      213: -7956482692392866588
+    second: Personajito_mascara_medieval_9
+  - first:
+      213: 547935564476777803
+    second: Personajito_mascara_medieval_10
+  - first:
+      213: 4779270681615929877
+    second: Personajito_mascara_medieval_11
+  - first:
+      213: -1582713455998324584
+    second: Personajito_mascara_medieval_12
+  - first:
+      213: -8351330000551566697
+    second: Personajito_mascara_medieval_13
+  - first:
+      213: 4310431336405631010
+    second: Personajito_mascara_medieval_14
+  - first:
+      213: -1399702625322540886
+    second: Personajito_mascara_medieval_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Personajito_mascara_medieval_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 77
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ffbfcb67bea7760800000000000000
+      internalID: 7456531028274577219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_mascara_medieval_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 77
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1212b5696791f010800000000000000
+      internalID: 1220923452927644190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_mascara_medieval_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 77
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26dd7c343581f030800000000000000
+      internalID: 3526746442607482411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_mascara_medieval_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 77
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4352e84bcb2fc9c30800000000000000
+      internalID: 4367632630939526452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_mascara_medieval_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ad843f9b8fa3cb0800000000000000
+      internalID: -4883317368395605412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_mascara_medieval_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 47
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e3712eaa5c21720800000000000000
+      internalID: 2815530054788267679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_mascara_medieval_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 47
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b4c291cb0209240800000000000000
+      internalID: 4796369595397851918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_mascara_medieval_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 47
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bccdab5254a8990800000000000000
+      internalID: -7383012610769368172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_mascara_medieval_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd58623c8917dcd90800000000000000
+      internalID: -7075874538606131748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_mascara_medieval_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 23
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec21628525e49190800000000000000
+      internalID: -7956482692392866588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_mascara_medieval_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 23
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4501782e78aa9700800000000000000
+      internalID: 547935564476777803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_mascara_medieval_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 23
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512182ffc51635240800000000000000
+      internalID: 4779270681615929877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_mascara_medieval_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8903df15f72190ae0800000000000000
+      internalID: -1582713455998324584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_mascara_medieval_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792af0b9c9d1a1c80800000000000000
+      internalID: -8351330000551566697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_mascara_medieval_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2208b2b767ab1db30800000000000000
+      internalID: 4310431336405631010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajito_mascara_medieval_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0e772d0e1439ce0800000000000000
+      internalID: -1399702625322540886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Personajito_mascara_medieval_0: 7456531028274577219
+      Personajito_mascara_medieval_1: 1220923452927644190
+      Personajito_mascara_medieval_10: 547935564476777803
+      Personajito_mascara_medieval_11: 4779270681615929877
+      Personajito_mascara_medieval_12: -1582713455998324584
+      Personajito_mascara_medieval_13: -8351330000551566697
+      Personajito_mascara_medieval_14: 4310431336405631010
+      Personajito_mascara_medieval_15: -1399702625322540886
+      Personajito_mascara_medieval_2: 3526746442607482411
+      Personajito_mascara_medieval_3: 4367632630939526452
+      Personajito_mascara_medieval_4: -4883317368395605412
+      Personajito_mascara_medieval_5: 2815530054788267679
+      Personajito_mascara_medieval_6: 4796369595397851918
+      Personajito_mascara_medieval_7: -7383012610769368172
+      Personajito_mascara_medieval_8: -7075874538606131748
+      Personajito_mascara_medieval_9: -7956482692392866588
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
