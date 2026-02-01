@@ -20,8 +20,9 @@ public class PlayerInteractor : MonoBehaviour
                 interactableInRange = interactable;
                 interactionIcon.SetActive(true);
             }
-                
+
         }
+        
 
             if (collision.CompareTag("Interactable"))
         {
@@ -31,13 +32,19 @@ public class PlayerInteractor : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        interactionIcon.SetActive(false);
+        if (collision.TryGetComponent(out IInteractable interactable) && interactable == interactableInRange)
+        {
+            interactableInRange = null;
+            interactionIcon.SetActive(false);
+
+        }
+
     }
     public void InteractWithObject()
     {
         if (interactableInRange != null) 
             {
-            interactableInRange.Interact();
+            interactableInRange?.Interact();
             if (!interactableInRange.CanInteract())
             {
                 interactionIcon.SetActive(false);
