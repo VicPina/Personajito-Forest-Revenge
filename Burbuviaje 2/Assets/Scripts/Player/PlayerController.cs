@@ -20,6 +20,10 @@ public class PlayerController : MonoBehaviour
         {
             playerAnimator.PHTurn(context.ReadValue<Vector2>());
         }
+        else
+        {
+            playerAnimator.PHTurn(Vector2.zero);
+        }
     }
     public void OnPlayerInteraction(InputAction.CallbackContext context)
     {

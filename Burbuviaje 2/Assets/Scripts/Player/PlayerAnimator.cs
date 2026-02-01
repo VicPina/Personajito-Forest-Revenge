@@ -20,7 +20,7 @@ public class PlayerAnimator : MonoBehaviour
         animator.SetFloat("Horizontal", _lastMoveDirection.x);
         animator.SetFloat("Vertical", _lastMoveDirection.y);
         animator.SetFloat("Velocidad", direction.magnitude);
-        Debug.Log($"Original: {direction.magnitude}  Ultimo: {_lastMoveDirection.magnitude}");
+        //sDebug.Log($"Original: {direction.magnitude}  Ultimo: {_lastMoveDirection.magnitude}");
 
         //if (direction.x < 0) { transform.rotation = Quaternion.Euler(Vector3.forward * 90); }
         //if(direction.x > 0) { transform.rotation = Quaternion.Euler(Vector3.forward * -90); }
